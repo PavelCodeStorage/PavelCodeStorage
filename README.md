@@ -21,7 +21,7 @@ Ny tools and technologies
 ![41597205-a57442ea-73c4-11e8-9591-61f5c83c7e66](https://user-images.githubusercontent.com/26840848/103689646-a962fe00-4fa4-11eb-91df-82c12b0068ac.png)
 ![aws](https://user-images.githubusercontent.com/26840848/103689648-a962fe00-4fa4-11eb-912c-58c00ee5c67b.png)
 ![1200px-Xamarin-logo](https://user-images.githubusercontent.com/26840848/103689650-a9fb9480-4fa4-11eb-88da-dce9751bbfc1.png)
-![cypress](https://user-images.githubusercontent.com/26840848/103689652-aa942b00-4fa4-11eb-914d-def7c7371bde.png)
+![cypress](https://user-images.githubusercontent.com/26840848/103690258-7a00c100-4fa5-11eb-9d92-a9c967343170.png)
 ![serenity](https://user-images.githubusercontent.com/26840848/103689653-aa942b00-4fa4-11eb-92e5-983e1af4897c.png)
 ![xcode-image-xcode-logo-1156316053201wd5yor6h](https://user-images.githubusercontent.com/26840848/103689655-aa942b00-4fa4-11eb-9c7b-3045e48e569b.png)
 ![336-3367685_gradle-logo-gradle-build-tool-clipart](https://user-images.githubusercontent.com/26840848/103689657-ab2cc180-4fa4-11eb-9ab9-a2b1cec743aa.png)
