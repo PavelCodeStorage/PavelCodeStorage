@@ -1,4 +1,4 @@
-### Hey Hey there 👋
+### Hi there 👋
 ### My name is Pavel and welcome to my github  👋
 
 I am a Software Test Engineer and enjoy to help another teams develop tests
