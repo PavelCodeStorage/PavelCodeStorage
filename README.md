@@ -22,6 +22,7 @@ Ny tools and technologies
 ![26328913](https://user-images.githubusercontent.com/26840848/103689644-a962fe00-4fa4-11eb-85cf-4a7f489b8cb1.png)
 ![Xamarin_logo_and_wordmark](https://user-images.githubusercontent.com/26840848/103691294-fc3db500-4fa6-11eb-9e43-fe24118ff490.png)
 ![serenity](https://user-images.githubusercontent.com/26840848/103690738-365a8700-4fa6-11eb-924b-71c91d8b5d85.png)
+![512px-Amazon_Web_Services_Logo](https://user-images.githubusercontent.com/26840848/103691846-f1375480-4fa7-11eb-9650-96082da7b17f.png)
 ![41597205-a57442ea-73c4-11e8-9591-61f5c83c7e66](https://user-images.githubusercontent.com/26840848/103690739-365a8700-4fa6-11eb-9496-48d15b34e19e.png)
 
 
