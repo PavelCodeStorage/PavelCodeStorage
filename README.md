@@ -23,7 +23,7 @@ Ny tools and technologies
 ![26328913](https://user-images.githubusercontent.com/26840848/103689644-a962fe00-4fa4-11eb-85cf-4a7f489b8cb1.png)
 ![serenity](https://user-images.githubusercontent.com/26840848/103690738-365a8700-4fa6-11eb-924b-71c91d8b5d85.png)
 ![41597205-a57442ea-73c4-11e8-9591-61f5c83c7e66](https://user-images.githubusercontent.com/26840848/103690739-365a8700-4fa6-11eb-9496-48d15b34e19e.png)
-![nodejs](https://user-images.githubusercontent.com/26840848/103692805-6192a580-4fa9-11eb-920a-079109bbc4a9.gif)
+![nodelogo](https://user-images.githubusercontent.com/26840848/103692938-943c9e00-4fa9-11eb-9226-84cab7d1cc38.png)
 
 Here are some ideas to get you started:
 
