@@ -24,7 +24,6 @@ I am a Software Test Engineer and enjoy to help another teams develop tests
 ![serenity](https://user-images.githubusercontent.com/26840848/103690738-365a8700-4fa6-11eb-924b-71c91d8b5d85.png)
 ![41597205-a57442ea-73c4-11e8-9591-61f5c83c7e66](https://user-images.githubusercontent.com/26840848/103690739-365a8700-4fa6-11eb-9496-48d15b34e19e.png)
 
-### Find me around the web 🌎
 
 ## 📱 Contact [🔝](#welcome-badges-4-readmemd-profile)
 
