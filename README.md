@@ -14,7 +14,6 @@ Find me around the web 🌎
 
 Ny tools and technologies
 
-![nodelogo](https://user-images.githubusercontent.com/26840848/103692938-943c9e00-4fa9-11eb-9226-84cab7d1cc38.png)
 ![webdriverio](https://user-images.githubusercontent.com/26840848/103689640-a8ca6780-4fa4-11eb-86dc-0adce24a357f.png)
 ![cypress](https://user-images.githubusercontent.com/26840848/103690258-7a00c100-4fa5-11eb-9d92-a9c967343170.png)
 ![Moby-logo](https://user-images.githubusercontent.com/26840848/103689641-a8ca6780-4fa4-11eb-8e28-aed1b3327a2d.png)
@@ -24,6 +23,8 @@ Ny tools and technologies
 ![26328913](https://user-images.githubusercontent.com/26840848/103689644-a962fe00-4fa4-11eb-85cf-4a7f489b8cb1.png)
 ![serenity](https://user-images.githubusercontent.com/26840848/103690738-365a8700-4fa6-11eb-924b-71c91d8b5d85.png)
 ![41597205-a57442ea-73c4-11e8-9591-61f5c83c7e66](https://user-images.githubusercontent.com/26840848/103690739-365a8700-4fa6-11eb-9496-48d15b34e19e.png)
+![nodelogo](https://user-images.githubusercontent.com/26840848/103692938-943c9e00-4fa9-11eb-9226-84cab7d1cc38.png)
+
 
 Here are some ideas to get you started:
 
