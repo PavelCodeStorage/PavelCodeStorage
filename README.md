@@ -18,6 +18,7 @@ Ny tools and technologies
 ![5879127](https://user-images.githubusercontent.com/26840848/103684423-95b39980-4f9c-11eb-9e26-9506d2978fc1.png)
 ![26328913](https://user-images.githubusercontent.com/26840848/103684492-b5e35880-4f9c-11eb-9b82-28d6b927328d.png)
 ![Unknown](https://user-images.githubusercontent.com/26840848/103684654-f80c9a00-4f9c-11eb-9445-ec01ca82868f.png)
+![1*Jkb_tsMBOvL6wQ8bzldu8Q](https://user-images.githubusercontent.com/26840848/103684821-3efa8f80-4f9d-11eb-8902-7c82583d7aac.png)
 
 Here are some ideas to get you started:
 
