@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ##### 💻 My tools and technologies [🔝](#welcome-badges-4-readmemd-profile)
 
