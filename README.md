@@ -20,7 +20,6 @@ Ny tools and technologies
 ![26328913](https://user-images.githubusercontent.com/26840848/103689644-a962fe00-4fa4-11eb-85cf-4a7f489b8cb1.png)
 ![41597205-a57442ea-73c4-11e8-9591-61f5c83c7e66](https://user-images.githubusercontent.com/26840848/103689646-a962fe00-4fa4-11eb-91df-82c12b0068ac.png)
 ![aws](https://user-images.githubusercontent.com/26840848/103689648-a962fe00-4fa4-11eb-912c-58c00ee5c67b.png)
-![cucumber-logo](https://user-images.githubusercontent.com/26840848/103689649-a9fb9480-4fa4-11eb-9a43-a4d4f87c6eeb.png)
 ![1200px-Xamarin-logo](https://user-images.githubusercontent.com/26840848/103689650-a9fb9480-4fa4-11eb-88da-dce9751bbfc1.png)
 ![cypress](https://user-images.githubusercontent.com/26840848/103689652-aa942b00-4fa4-11eb-914d-def7c7371bde.png)
 ![serenity](https://user-images.githubusercontent.com/26840848/103689653-aa942b00-4fa4-11eb-92e5-983e1af4897c.png)
