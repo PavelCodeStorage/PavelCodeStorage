@@ -3,14 +3,6 @@
 
 I am a Software Test Engineer and enjoy to help another teams develop tests
 
-![](https://visitor-badge.laobi.icu/badge?page_id=PavelCodeStorage.CPavelCodeStorage)
-
-[![Github](https://img.shields.io/github/followers/PavelCodeStorage?label=Follow&style=social)](https://github.com/PavelCodeStorage)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelCodeStorage&theme=tokyonight)
-
-
-
 ##### 💻 My tools and technologies [🔝](#welcome-badges-4-readmemd-profile)
 
 ![webdriverio](https://user-images.githubusercontent.com/26840848/103689640-a8ca6780-4fa4-11eb-86dc-0adce24a357f.png)
