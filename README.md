@@ -1,5 +1,5 @@
-### Hi there 👋
-### My name is Pavel but you can call me Paul 👋
+### Hey Hey there 👋
+### My name is Pavel and welcome to my github  👋
 
 I am a Software Test Engineer and enjoy to help another teams develop tests
 
