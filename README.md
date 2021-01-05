@@ -27,7 +27,7 @@ I am a Software Test Engineer and enjoy to help another teams develop tests
 ### Find me around the web 🌎
 {% if site.linkedin_username %}
 <li>
-  <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
+  <a href="https://www.linkedin.com/in/{{ PavelCodeStorage }}">
     <span class="icon  icon--linkedin">
       <svg viewBox="0 50 512 512" >
         <path fill="#828282" d="M150.65,100.682c0,27.992-22.508,50.683-50.273,50.683c-27.765,0-50.273-22.691-50.273-50.683
@@ -38,7 +38,7 @@ I am a Software Test Engineer and enjoy to help another teams develop tests
       </svg>
     </span>
 
-    <span class="username">{{ site.linkedin_name }}</span>
+    <span class="username">{{ PavelCodeStorage}}</span>
   </a>
 </li>
 {% endif %}
