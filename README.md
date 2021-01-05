@@ -25,9 +25,10 @@ I am a Software Test Engineer and enjoy to help another teams develop tests
 ![41597205-a57442ea-73c4-11e8-9591-61f5c83c7e66](https://user-images.githubusercontent.com/26840848/103690739-365a8700-4fa6-11eb-9496-48d15b34e19e.png)
 
 ### Find me around the web 🌎
+
 {% if site.linkedin_username %}
 <li>
-  <a href="https://www.linkedin.com/in/{{PavelCodeStorage}}">
+  <a href="https://www.linkedin.com/in/{{https://www.linkedin.com/in/pavel-dovgan}}">
     <span class="icon  icon--linkedin">
       <svg viewBox="0 50 512 512" >
         <path fill="#828282" d="M150.65,100.682c0,27.992-22.508,50.683-50.273,50.683c-27.765,0-50.273-22.691-50.273-50.683
@@ -37,10 +38,11 @@ I am a Software Test Engineer and enjoy to help another teams develop tests
         s-41.689-109.131-99.934-109.131s-82.768,45.369-82.768,45.369V187.333z"/>
       </svg>
     </span>
-    <span class="username">{{PavelCodeStorage}}</span>
+    <span class="username">{{https://www.linkedin.com/in/pavel-dovgan/}}</span>
   </a>
 </li>
 {% endif %}
+
 Skype: pavel.mail.work_1
 
 Here are some ideas to get you started:
