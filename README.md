@@ -7,7 +7,7 @@
 ![5879127](https://user-images.githubusercontent.com/26840848/103689642-a8ca6780-4fa4-11eb-87bd-cb472c6bbe0d.png)
 ![nodejs](https://user-images.githubusercontent.com/26840848/115101905-5d830600-9f50-11eb-98a2-628038e9fe04.png)
 ![Xamarin_logo_and_wordmark](https://user-images.githubusercontent.com/26840848/103691294-fc3db500-4fa6-11eb-9e43-fe24118ff490.png)
-![gradle-1-logo-png-transparent](https://user-images.githubusercontent.com/26840848/115101970-d2eed680-9f50-11eb-928c-0c94db76e212.png)
+![gradle](https://user-images.githubusercontent.com/26840848/115102128-b99a5a00-9f51-11eb-83f1-038198bac6d1.png)
 ![26328913](https://user-images.githubusercontent.com/26840848/103689644-a962fe00-4fa4-11eb-85cf-4a7f489b8cb1.png)
 ![serenity](https://user-images.githubusercontent.com/26840848/103690738-365a8700-4fa6-11eb-924b-71c91d8b5d85.png)
 ![41597205-a57442ea-73c4-11e8-9591-61f5c83c7e66](https://user-images.githubusercontent.com/26840848/103690739-365a8700-4fa6-11eb-9496-48d15b34e19e.png)
