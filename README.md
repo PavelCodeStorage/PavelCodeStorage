@@ -5,7 +5,7 @@
 ![cypress](https://user-images.githubusercontent.com/26840848/103690258-7a00c100-4fa5-11eb-9d92-a9c967343170.png)
 ![Moby-logo](https://user-images.githubusercontent.com/26840848/103689641-a8ca6780-4fa4-11eb-8e28-aed1b3327a2d.png)
 ![5879127](https://user-images.githubusercontent.com/26840848/103689642-a8ca6780-4fa4-11eb-87bd-cb472c6bbe0d.png)
-![nodejs](https://user-images.githubusercontent.com/26840848/115101877-33314880-9f50-11eb-8eb2-2bcd84f9ebb9.png)
+![nodejs](https://user-images.githubusercontent.com/26840848/115101905-5d830600-9f50-11eb-98a2-628038e9fe04.png)
 ![Xamarin_logo_and_wordmark](https://user-images.githubusercontent.com/26840848/103691294-fc3db500-4fa6-11eb-9e43-fe24118ff490.png)
 ![Unknown](https://user-images.githubusercontent.com/26840848/103691662-9271db00-4fa7-11eb-9f4f-04abfbbbf92b.png)
 ![26328913](https://user-images.githubusercontent.com/26840848/103689644-a962fe00-4fa4-11eb-85cf-4a7f489b8cb1.png)
