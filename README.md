@@ -4,7 +4,6 @@
 
 I'm a Software Development Engineer in Test with **8+ years of experience** building scalable automation solutions for enterprise software.
 
-My expertise includes UI, API, Mobile, and Performance Testing, designing automation frameworks from scratch, integrating quality gates into CI/CD pipelines, and leveraging AI to improve engineering productivity.
 
 ---
 
