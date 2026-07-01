@@ -35,10 +35,6 @@ My expertise includes UI, API, Mobile, and Performance Testing, designing automa
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress)
 ![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio)
 ![CodeceptJS](https://img.shields.io/badge/CodeceptJS-DD0031?style=for-the-badge)
-
----
-
-### Backend & API
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
 ![REST API](https://img.shields.io/badge/REST_API-grey?style=for-the-badge)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber)
@@ -115,17 +111,9 @@ Load and performance testing with JMeter, k6 and Locust.
 ## 📫 Connect with Me
 
 - 📧 Email: **paul.mail.dovgan@gmail.com**
-- 💼 LinkedIn: *(add your profile link)*
+- 💼 LinkedIn: https://www.linkedin.com/in/pavel-dovgan
 - 🇵🇱 Poland
 
----
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
-
----
 
 > *"Automation is not about replacing testers. It's about enabling engineering teams to deliver high-quality software faster."*
