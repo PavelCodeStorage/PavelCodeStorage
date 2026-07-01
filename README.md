@@ -80,41 +80,6 @@ My expertise includes UI, API, Mobile, and Performance Testing, designing automa
 
 ---
 
-## 💼 Professional Experience
-
-### Senior SDET / AI Automation Engineer
-**BNY Mellon** (2021 – Present)
-
-- Designed backend automation using Java 21 and Spring Boot
-- Built UI automation with Playwright, Cypress and CodeceptJS
-- Developed AI-powered automation using OpenAI and n8n
-- Implemented performance testing using JMeter, k6 and Locust
-- Integrated automated regression suites into GitLab CI pipelines
-- Worked in Agile teams with developers, QA and business analysts
-
----
-
-### QA Automation Engineer (SDET)
-**EffectiveSoft**
-
-- Built automation frameworks from scratch
-- Automated Web, Android and iOS applications
-- Developed Flutter and Swift integration tests
-- Implemented performance testing solutions
-- Worked directly with international customers
-
----
-
-### QA Automation Engineer (SDET)
-**Godel Technologies**
-
-- Maintained enterprise Selenium automation framework
-- Improved framework stability and maintainability
-- Implemented UI automation and database validation
-- Evaluated and introduced new testing technologies
-
----
-
 ## 📂 Featured Projects
 
 ### ☕ Java API Automation Framework
